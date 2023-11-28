@@ -49,14 +49,12 @@ npm run dev
 6. Build the application for production:
 
 ```bash
-# npm
 npm run build
 ```
 
 7. Locally preview production build:
 
 ```bash
-# npm
 npm run preview
 ```
 
